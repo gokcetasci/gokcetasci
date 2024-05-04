@@ -2,7 +2,7 @@
 # Hi👋, I'm Gokce!
 
 <div style="display: flex; align-items: center; flex-direction: row;">
- <img src="https://github.com/gokcetasci/gokcetasci/assets/144367699/e952216d-b1e3-4743-9114-ca1d186df927" align="left" alt="Profil Resmi" width="300" height="300" style="margin-right: 20px;">
+ <img src="https://github.com/gokcetasci/gokcetasci/assets/144367699/e952216d-b1e3-4743-9114-ca1d186df927" align="left" alt="Profil Resmi" width="400" height="400" style="margin-right: 20px;">
  <p align="center">I am a frontend developer who reflects my creativity and passion with codes. Here I share my first-hand experiences, what I learned, and the projects I created. I think every project is part of a journey and I learn something new with every line. I work on a wide range of applications, from HTML to CSS, from JavaScript to React and Next.js. I strive to improve myself and do better every day. I not only write code, but also aim to interact with the community, share and learn. If you want to discover new things with me, collaborate on projects or just chat, feel free to contact me. Have a nice coding :)</p>
 </div>
 
